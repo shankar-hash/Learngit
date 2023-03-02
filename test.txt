@@ -2,6 +2,7 @@
 newline ssdsdsdadadadadasdasda
 asdsadsdsdada
 kind: Namespace
+zxzxZxZxxxX
 apiVersion: v1
 metadata:
   name: kube-flannel
